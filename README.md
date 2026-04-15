@@ -4,6 +4,6 @@ This repository exists mainly as a place to report bugs, issues, or suggestions 
 
 There isn’t much here right now because the actual pack isn’t hosted on GitHub—this is just for feedback and tracking problems.
 
-If you run into anything broken, confusing, or have ideas for improvements, feel free to open an issue
+If you run into anything broken, confusing, or have ideas for improvements, feel free to open an [issue](https://github.com/Twixbyte/sb-all-in-one/issues)
 
 Check out the project on [Modrinth](https://modrinth.com/modpack/sb-all-in-one/)
